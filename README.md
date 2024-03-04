@@ -28,14 +28,14 @@ The following Power BI features were incoporated-
   The report comprisies of 2 pages.
   The first page shows visualization for sales while the second page shows the visualization for profit
   
-  ![](sales dashboard.png)
+  ![](sales dashboard.PNG)
   
   ## sales analysis
 
 2017 had the highest total Sum of Sales at 733,215.26, followed by 2016, 2014, and 2015.   November in the Year 2017 made up 5.16% of the Sum of Sales.   2017 had the highest average Sum of Sales at 61,101.27, followed by 2016, 2014, and 2015.  
  At 256,368.16, New York City had the highest Sum of Sales and was 135.03% higher than Philadelphia, which had the lowest Sum of Sales at 109,077.01.  New York City accounted for 33.14% of the Sum of Sales.  
 
- ![](profit dashboard.png)
+ ![](profit dashboard.PNG)
 
  ## profit analysis
  
