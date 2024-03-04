@@ -26,22 +26,20 @@ The following Power BI features were incoporated-
   ## Visualization
 
   The report comprisies of 2 pages.
+  
   The first page shows visualization for sales while the second page shows the visualization for profit
   
-  ![](sales dashboard.PNG)
-  
-  ## sales analysis
+![sales dashboard](https://github.com/idongumoren/SUPERSTORE-ANALYSIS/assets/131999604/ae49b886-bdb5-4a32-a289-df80c2d7e6be)
 
+## sales analysis
 2017 had the highest total Sum of Sales at 733,215.26, followed by 2016, 2014, and 2015.   November in the Year 2017 made up 5.16% of the Sum of Sales.   2017 had the highest average Sum of Sales at 61,101.27, followed by 2016, 2014, and 2015.  
  At 256,368.16, New York City had the highest Sum of Sales and was 135.03% higher than Philadelphia, which had the lowest Sum of Sales at 109,077.01.  New York City accounted for 33.14% of the Sum of Sales.  
 
- ![](profit dashboard.PNG)
+![profit dashboard](https://github.com/idongumoren/SUPERSTORE-ANALYSIS/assets/131999604/afd85152-fb9c-46d7-b45a-d3b8068612f2)
 
  ## profit analysis
  
- At 76,381.39, California had the highest Sum of Profit and was 310.70% higher than Virginia, which had the lowest Sum of Profit at 18,597.95. California accounted for 33.67% of Sum of Profit.  2017 had the highest total Sum of Profit at 93,439.27, followed by 2016, 2015, and 2014.  December in Year 2016 made up 6.07% of Sum of Profit.  2017 had the highest average Sum of Profit at 7,786.61, followed by 2016, 2015, and 2014.  Across all 5 City, Sum of Profit ranged from 13,181.79 to 62,036.98.  
-
-
+ At 76,381.39, California had the highest Sum of Profit and was 310.70% higher than Virginia, which had the lowest Sum of Profit at 18,597.95. California accounted for 33.67% of Sum of Profit.  2017 had the highest total Sum of Profit at 93,439.27, followed by 2016, 2015, and 2014.  December in Year 2016 made up 6.07% of Sum of Profit.  2017 had the highest average Sum of Profit at 7,786.61, followed by 2016, 2015, and 2014.  Across all 5 City, Sum of Profit ranged from 13,181.79 to 62,036.98. 
 
   
   
